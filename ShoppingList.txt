@@ -3,3 +3,5 @@ sugar
 flour
 bread
 peanut butter
+butter
+rice crispy
